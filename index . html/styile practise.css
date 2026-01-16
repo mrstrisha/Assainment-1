@@ -141,29 +141,4 @@ align-items: center;
 
 
 
-#third-section {
-  display: flex;
-  width: 1360px;
-height:627px;
-width: 100%;
-justify-content: center;
-align-items: center;
-}
 
-#third-section .picture-content {
-width: 1360px;
-height:627px;
-width: 100%;
-justify-content: center;
-align-items: center;
-gap:102px;
-}
-
-
-
-
-
-#third-section .picture-content h3{
-    
-  color: #30B868;
-}

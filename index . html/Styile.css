@@ -210,6 +210,60 @@ max-width: 1140px;
 
 
 
+      #third-section {
+  display: flex;
+  width: 1360px;
+height:627px;
+width: 100%;
+margin-top: 120px;
+gap:60px;
+}
+
+#third-section .picture-content {
+width: 100%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+text-align: left;
+}
+
+
+
+
+
+#third-section .picture-content h3{
+    
+  color: #30B868;
+  margin-bottom: 16px;
+}
+#third-section .picture-content h1 {
+  color: #001931;
+  font-weight: 700;
+   margin-bottom: 16px;
+   font-size: 48px;
+}
+
+#third-section .picture-content h4 {
+    color:#627382;
+  font-weight: 400;
+   margin-bottom: 60px;
+   font-size: 16px;
+
+}
+
+#third-section .picture-content ul{
+  font-weight: 500px;
+  font-size: 16px;
+  line-height: 20px;
+  font-style: normal;
+list-style-image: url(./images/images/assets/CheckCircle.png) ;
+margin: bottom 16px;
+}
+
+
+
+
 
 
 
